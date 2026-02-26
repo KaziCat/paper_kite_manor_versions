@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "coffee_pastinaca_sativa_seeded"
+      },
+      "name": "default"
+    }
+  }
+}

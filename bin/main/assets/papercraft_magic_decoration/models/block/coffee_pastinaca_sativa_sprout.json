@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/coffee_pastinaca_sativa_sprout",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/coffee_pastinaca_sativa_sprout",
+    "particle": "papercraft_magic_decoration:block/coffee_pastinaca_sativa_sprout",
+    "1": "papercraft_magic_decoration:block/coffee_pastinaca_sativa_sprout"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "papercraft_magic_decoration:dusty_painting"
+  },
+  "result": "papercraft_magic_decoration:painting_no_2_aoao"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "underground_door_frames"
+      },
+      "name": "default"
+    }
+  }
+}

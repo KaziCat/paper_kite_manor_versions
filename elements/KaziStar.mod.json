@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Kazi Star",
+    "rarity": "COMMON",
+    "texture": "kazi_star",
+    "description": "Kazi Star----KaziCat",
+    "creativeTab": {
+      "value": "CUSTOM:PapercraftMagicDecoration"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:kazi_star"
+    },
+    "lengthInTicks": 1540,
+    "analogOutput": 0
+  }
+}

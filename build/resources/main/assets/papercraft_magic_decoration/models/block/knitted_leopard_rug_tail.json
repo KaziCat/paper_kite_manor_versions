@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/knitted_leopard_rug_tail",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/knitted_leopard_rug",
+    "particle": "papercraft_magic_decoration:block/knitted_leopard_rug",
+    "0": "papercraft_magic_decoration:block/knitted_leopard_rug"
+  },
+  "render_type": "cutout"
+}

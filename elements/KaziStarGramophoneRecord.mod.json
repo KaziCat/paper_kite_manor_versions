@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RedPaperBlock"
+      },
+      {
+        "value": "CUSTOM:BluePaperBlock"
+      },
+      {
+        "value": "CUSTOM:YellowPaperBlock"
+      },
+      {
+        "value": "CUSTOM:BlackPaperBlick"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "CUSTOM:DewyMembraneBlock"
+      },
+      {
+        "value": "CUSTOM:CottonSergeBlock"
+      },
+      {
+        "value": "Blocks.CAMPFIRE"
+      },
+      {
+        "value": "CUSTOM:WhitePaperBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:KaziStar"
+    },
+    "name": "kazi_star_gramophone_record",
+    "namespace": "mod"
+  }
+}

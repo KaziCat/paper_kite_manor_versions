@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "papercraft_magic_decoration:item/knitted_leopard_rug_roll"
+  },
+  "render_type": "translucent"
+}

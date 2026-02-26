@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/wooden_barrel_bookshelf",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/wooden_barrel_bookshelf"
+  }
+}

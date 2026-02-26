@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/rough_palm_tree_trunk",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/rough_palm_tree_trunk",
+    "particle": "papercraft_magic_decoration:block/rough_palm_tree_trunk",
+    "0": "papercraft_magic_decoration:block/rough_palm_tree_trunk"
+  },
+  "render_type": "cutout"
+}

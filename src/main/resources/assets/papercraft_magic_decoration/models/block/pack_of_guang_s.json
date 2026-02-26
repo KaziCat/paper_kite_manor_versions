@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/pack_of_guang_s",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/pack_of_guang_s",
+    "particle": "papercraft_magic_decoration:block/pack_of_guang_s",
+    "0": "papercraft_magic_decoration:block/pack_of_guang_s"
+  },
+  "render_type": "solid"
+}

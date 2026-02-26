@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/dwarf_plum_blossom",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/dwarf_plum_blossom",
+    "particle": "papercraft_magic_decoration:block/dwarf_plum_blossom",
+    "0": "papercraft_magic_decoration:block/dwarf_plum_blossom"
+  },
+  "render_type": "cutout"
+}

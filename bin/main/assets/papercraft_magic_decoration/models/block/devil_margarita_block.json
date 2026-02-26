@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/devil_margarita_block",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/devil_margarita",
+    "particle": "papercraft_magic_decoration:block/devil_margarita",
+    "0": "papercraft_magic_decoration:block/devil_margarita"
+  },
+  "render_type": "cutout"
+}

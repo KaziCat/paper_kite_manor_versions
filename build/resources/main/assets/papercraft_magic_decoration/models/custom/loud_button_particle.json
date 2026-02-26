@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/loud_button",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/loud_button"
+  }
+}

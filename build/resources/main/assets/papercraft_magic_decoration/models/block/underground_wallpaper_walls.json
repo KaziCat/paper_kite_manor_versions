@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "papercraft_magic_decoration:block/underground_wallpaper_walls",
+    "up": "papercraft_magic_decoration:block/underground_wallpaper_walls",
+    "north": "papercraft_magic_decoration:block/underground_wallpaper_walls",
+    "east": "papercraft_magic_decoration:block/underground_wallpaper_walls",
+    "south": "papercraft_magic_decoration:block/underground_wallpaper_walls",
+    "west": "papercraft_magic_decoration:block/underground_wallpaper_walls",
+    "particle": "papercraft_magic_decoration:block/underground_wallpaper_walls"
+  },
+  "render_type": "solid"
+}

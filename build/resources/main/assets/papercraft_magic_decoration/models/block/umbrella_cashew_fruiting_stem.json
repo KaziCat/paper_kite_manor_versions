@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/umbrella_cashew_fruiting_stem",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/umbrella_cashew_fruiting_stem",
+    "particle": "papercraft_magic_decoration:block/umbrella_cashew_fruiting_stem",
+    "0": "papercraft_magic_decoration:block/umbrella_cashew_fruiting_stem"
+  },
+  "render_type": "cutout"
+}

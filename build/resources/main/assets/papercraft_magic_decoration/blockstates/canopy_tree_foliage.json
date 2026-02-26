@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "papercraft_magic_decoration:block/canopy_tree_foliage"
+    },
+    "facing=east": {
+      "model": "papercraft_magic_decoration:block/canopy_tree_foliage",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "papercraft_magic_decoration:block/canopy_tree_foliage",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "papercraft_magic_decoration:block/canopy_tree_foliage",
+      "y": 270
+    }
+  }
+}

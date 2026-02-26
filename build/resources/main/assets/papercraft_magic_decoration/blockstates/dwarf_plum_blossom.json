@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "papercraft_magic_decoration:block/dwarf_plum_blossom"
+    },
+    "facing=east": {
+      "model": "papercraft_magic_decoration:block/dwarf_plum_blossom",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "papercraft_magic_decoration:block/dwarf_plum_blossom",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "papercraft_magic_decoration:block/dwarf_plum_blossom",
+      "y": 270
+    }
+  }
+}

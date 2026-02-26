@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:glass_bottle"
+    },
+    "c": {
+      "item": "papercraft_magic_decoration:ground_grown_coffee_fruit"
+    },
+    "d": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "papercraft_magic_decoration:pot_of_nocturnal_cat_coffee",
+    "count": 1
+  }
+}

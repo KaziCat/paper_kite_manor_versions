@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/key_under_the_lake",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/key_under_the_lake"
+  }
+}

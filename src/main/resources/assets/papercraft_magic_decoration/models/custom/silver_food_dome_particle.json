@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/silver_food_dome",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/silver_food_dome"
+  }
+}

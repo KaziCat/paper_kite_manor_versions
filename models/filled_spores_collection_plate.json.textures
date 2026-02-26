@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "filled_spores_collection_plate"
+      },
+      "name": "default"
+    }
+  }
+}

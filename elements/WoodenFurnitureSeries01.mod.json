@@ -1,0 +1,43 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LowcabinetWithTableclothOrigami"
+      },
+      {
+        "value": "CUSTOM:WoodenBarrelBookshelfOrigami"
+      },
+      {
+        "value": "CUSTOM:EdgedChalkboardOrigami"
+      },
+      {
+        "value": "CUSTOM:LongStorageTableOrigami"
+      },
+      {
+        "value": "CUSTOM:CupboardOrigami"
+      },
+      {
+        "value": "CUSTOM:OldOrganOrigami"
+      },
+      {
+        "value": "CUSTOM:LargeDiningTableOrigami"
+      },
+      {
+        "value": "CUSTOM:RedVelvetChaiseLongueOrigami"
+      },
+      {
+        "value": "CUSTOM:FireplaceDecorationOrigami"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "wooden_furniture_series_01",
+    "namespace": "minecraft"
+  }
+}

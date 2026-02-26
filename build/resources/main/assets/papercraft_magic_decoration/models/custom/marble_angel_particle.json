@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/marble_angel",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/marble_angel"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/old_organ",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/old_organ"
+  }
+}

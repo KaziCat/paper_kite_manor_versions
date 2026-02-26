@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bucket_of_fried_chicken"
+      },
+      "name": "default"
+    }
+  }
+}

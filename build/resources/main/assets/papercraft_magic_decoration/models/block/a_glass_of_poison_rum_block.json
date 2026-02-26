@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/a_glass_of_poison_rum_block",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/a_glass_of_poison_rum_block",
+    "particle": "papercraft_magic_decoration:block/a_glass_of_poison_rum_block",
+    "0": "papercraft_magic_decoration:block/a_glass_of_poison_rum_block"
+  },
+  "render_type": "cutout"
+}

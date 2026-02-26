@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "papercraft_magic_decoration:block/canopy_tree_limb_top",
+    "up": "papercraft_magic_decoration:block/canopy_tree_limb_top",
+    "north": "papercraft_magic_decoration:block/canopy_tree_limb_sides",
+    "east": "papercraft_magic_decoration:block/canopy_tree_limb_sides",
+    "south": "papercraft_magic_decoration:block/canopy_tree_limb_sides",
+    "west": "papercraft_magic_decoration:block/canopy_tree_limb_sides",
+    "particle": "papercraft_magic_decoration:block/canopy_tree_limb_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "papercraft_magic_decoration:block/pot_of_nocturnal_cat_coffee"
+    },
+    "facing=east": {
+      "model": "papercraft_magic_decoration:block/pot_of_nocturnal_cat_coffee",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "papercraft_magic_decoration:block/pot_of_nocturnal_cat_coffee",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "papercraft_magic_decoration:block/pot_of_nocturnal_cat_coffee",
+      "y": 270
+    }
+  }
+}

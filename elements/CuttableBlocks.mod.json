@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.COPPER_ORE"
+      },
+      {
+        "value": "Blocks.MOSS_BLOCK"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_COPPER_ORE"
+      },
+      {
+        "value": "Blocks.AMETHYST_BLOCK"
+      },
+      {
+        "value": "Blocks.BUDDING_AMETHYST"
+      },
+      {
+        "value": "Blocks.GLOWSTONE"
+      },
+      {
+        "value": "Blocks.BAMBOO_BLOCK"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "cuttable_blocks",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pink_petals"
+    },
+    "b": {
+      "item": "papercraft_magic_decoration:bottle_vitality_spores"
+    }
+  },
+  "result": {
+    "item": "papercraft_magic_decoration:dwarf_plum_blossom",
+    "count": 8
+  }
+}

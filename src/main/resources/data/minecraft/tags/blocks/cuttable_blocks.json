@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:copper_ore",
+    "minecraft:moss_block",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:amethyst_block",
+    "minecraft:budding_amethyst",
+    "minecraft:glowstone",
+    "minecraft:bamboo_block"
+  ]
+}

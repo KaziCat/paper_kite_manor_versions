@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/forget_me_not",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/forget_me_not"
+  }
+}

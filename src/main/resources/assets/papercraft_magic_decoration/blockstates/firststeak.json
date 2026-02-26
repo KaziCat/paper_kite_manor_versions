@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "papercraft_magic_decoration:block/firststeak"
+    },
+    "facing=east": {
+      "model": "papercraft_magic_decoration:block/firststeak",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "papercraft_magic_decoration:block/firststeak",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "papercraft_magic_decoration:block/firststeak",
+      "y": 270
+    }
+  }
+}

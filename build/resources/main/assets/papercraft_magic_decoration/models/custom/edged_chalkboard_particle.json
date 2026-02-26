@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/edged_chalkboard",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/edged_chalkboard"
+  }
+}

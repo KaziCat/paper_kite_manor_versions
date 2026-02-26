@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/aerogel",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/aerogel",
+    "particle": "papercraft_magic_decoration:block/aerogel",
+    "0": "papercraft_magic_decoration:block/aerogel"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/foam_box_with_dirt",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/foam_box_with_dirt",
+    "particle": "papercraft_magic_decoration:block/foam_box_with_dirt",
+    "0": "papercraft_magic_decoration:block/foam_box_with_dirt"
+  },
+  "render_type": "solid"
+}

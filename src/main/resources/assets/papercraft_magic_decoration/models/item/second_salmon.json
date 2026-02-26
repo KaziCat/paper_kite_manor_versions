@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "papercraft_magic_decoration:item/chunky_smoked_salmon"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/pair_of_land_no.1_by_the_glass_after_moving",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/a_glass_of_land_no.1",
+    "particle": "papercraft_magic_decoration:block/a_glass_of_land_no.1",
+    "0": "papercraft_magic_decoration:block/a_glass_of_land_no.1"
+  },
+  "render_type": "cutout"
+}

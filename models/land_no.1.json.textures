@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "land_no.1"
+      },
+      "name": "default"
+    }
+  }
+}

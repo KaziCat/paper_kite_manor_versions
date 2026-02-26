@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/coffee_pastinaca_sativa_flowers",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/coffee_pastinaca_sativa",
+    "particle": "papercraft_magic_decoration:block/coffee_pastinaca_sativa",
+    "0": "papercraft_magic_decoration:block/coffee_pastinaca_sativa"
+  },
+  "render_type": "cutout"
+}

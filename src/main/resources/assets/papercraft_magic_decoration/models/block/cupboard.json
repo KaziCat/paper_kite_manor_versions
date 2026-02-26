@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/cupboard",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/cupboard",
+    "particle": "papercraft_magic_decoration:block/cupboard",
+    "0": "papercraft_magic_decoration:block/cupboard"
+  },
+  "render_type": "cutout"
+}

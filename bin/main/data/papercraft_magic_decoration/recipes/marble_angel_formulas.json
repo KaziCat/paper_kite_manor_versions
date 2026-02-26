@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:quartz"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "d": {
+      "item": "minecraft:calcite"
+    }
+  },
+  "result": {
+    "item": "papercraft_magic_decoration:marble_angel",
+    "count": 1
+  }
+}

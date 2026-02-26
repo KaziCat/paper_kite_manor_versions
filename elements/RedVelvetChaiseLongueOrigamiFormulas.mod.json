@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CottonSerge"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CottonSerge"
+      },
+      {
+        "value": "CUSTOM:CottonSergeBlock"
+      },
+      {
+        "value": "CUSTOM:CottonSerge"
+      },
+      {
+        "value": "CUSTOM:BluePaper"
+      },
+      {
+        "value": "CUSTOM:BluePaperBlock"
+      },
+      {
+        "value": "CUSTOM:BluePaper"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RedVelvetChaiseLongueOrigami"
+    },
+    "name": "red_velvet_chaise_longue_origami_formulas",
+    "namespace": "mod"
+  }
+}

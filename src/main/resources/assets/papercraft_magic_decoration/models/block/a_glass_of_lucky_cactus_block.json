@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/a_glass_of_lucky_cactus_block",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/a_glass_of_lucky_cactus_block",
+    "particle": "papercraft_magic_decoration:block/a_glass_of_lucky_cactus_block",
+    "0": "papercraft_magic_decoration:block/a_glass_of_lucky_cactus_block"
+  },
+  "render_type": "cutout"
+}

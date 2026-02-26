@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/fire_whiskey",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/fire_whiskey",
+    "particle": "papercraft_magic_decoration:block/fire_whiskey",
+    "0": "papercraft_magic_decoration:block/fire_whiskey"
+  },
+  "render_type": "solid"
+}

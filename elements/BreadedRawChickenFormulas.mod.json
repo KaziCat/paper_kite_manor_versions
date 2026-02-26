@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.CHICKEN"
+      },
+      {
+        "value": "Items.WHEAT"
+      },
+      {
+        "value": "Items.CHICKEN"
+      },
+      {
+        "value": "Items.WHEAT"
+      },
+      {
+        "value": "Items.CHICKEN"
+      },
+      {
+        "value": "Items.WHEAT"
+      },
+      {
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "Items.PAPER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BreadedRawChicken"
+    },
+    "name": "breaded_raw_chicken_formulas",
+    "namespace": "mod"
+  }
+}

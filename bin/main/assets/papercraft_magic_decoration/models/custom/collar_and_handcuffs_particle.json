@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/collar_and_handcuffs",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/collars_and_handcuffs"
+  }
+}

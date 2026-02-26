@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:FriedChickenLeg"
+    },
+    "showParticles": true,
+    "actionSound": {
+      "value": "entity.splash_potion.throw"
+    },
+    "igniteFire": false,
+    "power": 1.0,
+    "damage": 5.0,
+    "knockback": 1,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "onHitsEntity": {
+      "name": "HitByFlyingChicken"
+    }
+  }
+}

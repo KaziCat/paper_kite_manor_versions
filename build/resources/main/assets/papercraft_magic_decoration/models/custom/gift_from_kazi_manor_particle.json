@@ -1,0 +1,6 @@
+{
+  "parent": "papercraft_magic_decoration:displaysettings/gift_from_kazi_manor",
+  "textures": {
+    "particle": "papercraft_magic_decoration:block/gift_from_kazi_manor"
+  }
+}

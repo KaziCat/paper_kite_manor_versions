@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BluePaper"
+      },
+      {
+        "value": "CUSTOM:BluePaper"
+      },
+      {
+        "value": "CUSTOM:BluePaper"
+      },
+      {
+        "value": "CUSTOM:BluePaper"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BluePaper"
+      },
+      {
+        "value": "CUSTOM:WhitePaper"
+      },
+      {
+        "value": "CUSTOM:WhitePaperBlock"
+      },
+      {
+        "value": "CUSTOM:WhitePaper"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FireplaceDecorationOrigami"
+    },
+    "name": "fireplace_decoration_origami_formulas",
+    "namespace": "mod"
+  }
+}

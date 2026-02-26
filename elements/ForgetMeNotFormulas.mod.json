@@ -1,0 +1,25 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "Blocks.CORNFLOWER"
+    },
+    "brewingIngredientStack": {
+      "value": "CUSTOM:BottleVitalitySpores"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:ForgetMeNot"
+    },
+    "name": "forget_me_not_formulas",
+    "namespace": "mod"
+  }
+}

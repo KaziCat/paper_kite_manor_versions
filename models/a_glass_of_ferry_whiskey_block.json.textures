@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "a_glass_of_ferry_whiskey_block"
+      },
+      "name": "default"
+    }
+  }
+}

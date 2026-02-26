@@ -1,0 +1,179 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onTakenFromSlot": {
+            "name": "Dealings00"
+          },
+          "onStackTransfer": {
+            "name": "Dealings00"
+          },
+          "x": 187,
+          "y": 52
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onTakenFromSlot": {
+            "name": "Dealings01"
+          },
+          "onStackTransfer": {
+            "name": "Dealings01"
+          },
+          "x": 223,
+          "y": 52
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onTakenFromSlot": {
+            "name": "Dealings02"
+          },
+          "onStackTransfer": {
+            "name": "Dealings02"
+          },
+          "x": 259,
+          "y": 52
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onTakenFromSlot": {
+            "name": "Dealings03"
+          },
+          "onStackTransfer": {
+            "name": "Dealings03"
+          },
+          "x": 187,
+          "y": 80
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onTakenFromSlot": {
+            "name": "Dealing04"
+          },
+          "onStackTransfer": {
+            "name": "Dealing04"
+          },
+          "x": 223,
+          "y": 80
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onTakenFromSlot": {
+            "name": "Dealing05"
+          },
+          "onStackTransfer": {
+            "name": "Dealing05"
+          },
+          "x": 259,
+          "y": 80
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.AMETHYST_SHARD"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 6,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "CancellationOfTransaction"
+          },
+          "onTakenFromSlot": {
+            "name": "CancellationOfTransaction"
+          },
+          "onStackTransfer": {
+            "name": "CancellationOfTransaction"
+          },
+          "x": 150,
+          "y": 57
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_lobby_boy_backpack_button",
+          "image": "lobby_boy_backpack_button.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "LobbyBoyDealings"
+          },
+          "x": 143,
+          "y": 84
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lobby_boy_backpack.png",
+          "use1Xscale": false,
+          "x": 126,
+          "y": 37
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

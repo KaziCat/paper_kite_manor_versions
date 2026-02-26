@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black_and_white_tile_fooring"
+      },
+      "name": "default"
+    }
+  }
+}

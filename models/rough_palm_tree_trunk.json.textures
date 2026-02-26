@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rough_palm_tree_trunk"
+      },
+      "name": "default"
+    }
+  }
+}

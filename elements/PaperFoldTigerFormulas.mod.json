@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackPaperBlick"
+      },
+      {
+        "value": "CUSTOM:YellowPaperBlock"
+      },
+      {
+        "value": "CUSTOM:BlackPaperBlick"
+      },
+      {
+        "value": "CUSTOM:YellowPaperBlock"
+      },
+      {
+        "value": "CUSTOM:CottonSergeBlock"
+      },
+      {
+        "value": "CUSTOM:YellowPaperBlock"
+      },
+      {
+        "value": "CUSTOM:CottonSerge"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CottonSerge"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PaperFoldTiger"
+    },
+    "name": "paper_fold_tiger_formulas",
+    "namespace": "mod"
+  }
+}

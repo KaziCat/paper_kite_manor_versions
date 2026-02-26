@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dwarf_plum_blossom"
+      },
+      "name": "default"
+    }
+  }
+}

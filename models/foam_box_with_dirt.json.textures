@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "foam_box_with_dirt"
+      },
+      "name": "default"
+    }
+  }
+}

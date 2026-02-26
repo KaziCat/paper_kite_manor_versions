@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "papercraft_magic_decoration:custom/raw_sausage_mace_weapon_particle"
+    },
+    "facing=east": {
+      "model": "papercraft_magic_decoration:custom/raw_sausage_mace_weapon_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "papercraft_magic_decoration:custom/raw_sausage_mace_weapon_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "papercraft_magic_decoration:custom/raw_sausage_mace_weapon_particle",
+      "y": 270
+    }
+  }
+}

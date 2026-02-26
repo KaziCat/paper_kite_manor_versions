@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "diplomatico_coffee"
+      },
+      "name": "default"
+    }
+  }
+}

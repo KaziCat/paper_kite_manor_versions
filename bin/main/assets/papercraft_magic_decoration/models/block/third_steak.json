@@ -1,0 +1,9 @@
+{
+  "parent": "papercraft_magic_decoration:custom/third_steak",
+  "textures": {
+    "all": "papercraft_magic_decoration:block/monster_steak",
+    "particle": "papercraft_magic_decoration:block/monster_steak",
+    "missing": "papercraft_magic_decoration:block/monster_steak"
+  },
+  "render_type": "solid"
+}

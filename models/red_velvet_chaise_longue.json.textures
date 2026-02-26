@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_velvet_chaise_longue"
+      },
+      "name": "default"
+    }
+  }
+}

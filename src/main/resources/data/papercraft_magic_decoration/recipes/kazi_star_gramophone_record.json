@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "key": {
+    "a": {
+      "item": "papercraft_magic_decoration:red_paper_block"
+    },
+    "b": {
+      "item": "papercraft_magic_decoration:blue_paper_block"
+    },
+    "c": {
+      "item": "papercraft_magic_decoration:yellow_paper_block"
+    },
+    "d": {
+      "item": "papercraft_magic_decoration:black_paper_blick"
+    },
+    "e": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "f": {
+      "item": "papercraft_magic_decoration:dewy_membrane_block"
+    },
+    "g": {
+      "item": "papercraft_magic_decoration:cotton_serge_block"
+    },
+    "h": {
+      "item": "minecraft:campfire"
+    },
+    "i": {
+      "item": "papercraft_magic_decoration:white_paper_block"
+    }
+  },
+  "result": {
+    "item": "papercraft_magic_decoration:kazi_star",
+    "count": 1
+  }
+}

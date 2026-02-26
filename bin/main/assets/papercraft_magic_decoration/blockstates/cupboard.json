@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "papercraft_magic_decoration:block/cupboard"
+    },
+    "facing=east": {
+      "model": "papercraft_magic_decoration:block/cupboard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "papercraft_magic_decoration:block/cupboard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "papercraft_magic_decoration:block/cupboard",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:Whiskeyraw"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.APPLE"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:LandNo1"
+    },
+    "name": "land_no_1_distillig",
+    "namespace": "mod"
+  }
+}

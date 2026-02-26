@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mini_palm_tree"
+      },
+      "name": "default"
+    }
+  }
+}

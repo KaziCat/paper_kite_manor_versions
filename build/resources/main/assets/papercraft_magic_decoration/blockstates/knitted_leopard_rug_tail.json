@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "papercraft_magic_decoration:block/knitted_leopard_rug_tail"
+    },
+    "facing=east": {
+      "model": "papercraft_magic_decoration:block/knitted_leopard_rug_tail",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "papercraft_magic_decoration:block/knitted_leopard_rug_tail",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "papercraft_magic_decoration:block/knitted_leopard_rug_tail",
+      "y": 270
+    }
+  }
+}

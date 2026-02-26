@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "papercraft_magic_decoration:block/dewy_membrane_block",
+    "up": "papercraft_magic_decoration:block/dewy_membrane_block",
+    "north": "papercraft_magic_decoration:block/dewy_membrane_block",
+    "east": "papercraft_magic_decoration:block/dewy_membrane_block",
+    "south": "papercraft_magic_decoration:block/dewy_membrane_block",
+    "west": "papercraft_magic_decoration:block/dewy_membrane_block",
+    "particle": "papercraft_magic_decoration:block/dewy_membrane_block"
+  },
+  "render_type": "translucent"
+}

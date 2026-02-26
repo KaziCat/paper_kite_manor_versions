@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 16,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CottonSerge"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "CUSTOM:CottonSerge"
+      },
+      {
+        "value": "CUSTOM:YellowPaper"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "CUSTOM:YellowPaper"
+      },
+      {
+        "value": "CUSTOM:CottonSerge"
+      },
+      {
+        "value": "CUSTOM:YellowPaper"
+      },
+      {
+        "value": "CUSTOM:CottonSerge"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FoamBoxWithDirt"
+    },
+    "name": "foam_box_with_dirt_formulas",
+    "namespace": "mod"
+  }
+}

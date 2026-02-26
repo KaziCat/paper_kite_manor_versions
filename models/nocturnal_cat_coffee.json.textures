@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "nocturnal_cat_coffee"
+      },
+      "name": "default"
+    }
+  }
+}
