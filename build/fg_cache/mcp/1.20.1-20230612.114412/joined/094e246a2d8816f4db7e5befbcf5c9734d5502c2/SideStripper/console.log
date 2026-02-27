@@ -1,9 +1,0 @@
-JVM:         C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
-JVM Args:    
-Run Args:    "--strip", "--input", "C:\MCreatorWorkspaces\paper_kite_manor\build\fg_cache\mcp\1.20.1-20230612.114412\joined\094e246a2d8816f4db7e5befbcf5c9734d5502c2\AccessTransformer\output.jar", "--output", "C:\MCreatorWorkspaces\paper_kite_manor\build\fg_cache\mcp\1.20.1-20230612.114412\joined\094e246a2d8816f4db7e5befbcf5c9734d5502c2\SideStripper\output.jar", "--data", "C:\MCreatorWorkspaces\paper_kite_manor\build\fg_cache\mcp\1.20.1-20230612.114412\joined\094e246a2d8816f4db7e5befbcf5c9734d5502c2\SideStripper\string_data.sas"
-Classpath:   C:\Users\咔吱\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.7\mergetool-1.1.7-fatjar.jar
-Working Dir: C:\MCreatorWorkspaces\paper_kite_manor\build\fg_cache\mcp\1.20.1-20230612.114412\joined\094e246a2d8816f4db7e5befbcf5c9734d5502c2\SideStripper
-Main Class:  net.minecraftforge.mergetool.ConsoleMerger
-Input:  C:\MCreatorWorkspaces\paper_kite_manor\build\fg_cache\mcp\1.20.1-20230612.114412\joined\094e246a2d8816f4db7e5befbcf5c9734d5502c2\AccessTransformer\output.jar
-Output: C:\MCreatorWorkspaces\paper_kite_manor\build\fg_cache\mcp\1.20.1-20230612.114412\joined\094e246a2d8816f4db7e5befbcf5c9734d5502c2\SideStripper\output.jar
-Data:   C:\MCreatorWorkspaces\paper_kite_manor\build\fg_cache\mcp\1.20.1-20230612.114412\joined\094e246a2d8816f4db7e5befbcf5c9734d5502c2\SideStripper\string_data.sas

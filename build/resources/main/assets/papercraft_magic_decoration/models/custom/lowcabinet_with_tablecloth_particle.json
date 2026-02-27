@@ -1,6 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:displaysettings/lowcabinet_with_tablecloth",
-  "textures": {
-    "particle": "papercraft_magic_decoration:block/lowcabinet_with_tablecloth"
-  }
-}

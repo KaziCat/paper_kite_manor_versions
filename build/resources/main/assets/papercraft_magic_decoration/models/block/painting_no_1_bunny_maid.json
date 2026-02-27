@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/painting_no_1_bunny_maid",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/painting_no_1_bunny_maid",
-    "particle": "papercraft_magic_decoration:block/painting_no_1_bunny_maid",
-    "0": "papercraft_magic_decoration:block/painting_no_1_bunny_maid"
-  },
-  "render_type": "cutout"
-}

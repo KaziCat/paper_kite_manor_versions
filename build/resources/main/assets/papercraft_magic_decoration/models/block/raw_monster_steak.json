@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/raw_monster_steak",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/raw_monster_steak",
-    "particle": "papercraft_magic_decoration:block/raw_monster_steak",
-    "0": "papercraft_magic_decoration:block/raw_monster_steak"
-  },
-  "render_type": "cutout"
-}

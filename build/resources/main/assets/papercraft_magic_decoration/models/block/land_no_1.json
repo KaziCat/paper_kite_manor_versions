@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/land_no.1",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/land_no.1",
-    "particle": "papercraft_magic_decoration:block/land_no.1",
-    "0": "papercraft_magic_decoration:block/land_no.1"
-  },
-  "render_type": "solid"
-}

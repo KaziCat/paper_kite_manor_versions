@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/palm_tree_top",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/palm_tree_top",
-    "particle": "papercraft_magic_decoration:block/palm_tree_top",
-    "0": "papercraft_magic_decoration:block/palm_tree_top"
-  },
-  "render_type": "cutout"
-}

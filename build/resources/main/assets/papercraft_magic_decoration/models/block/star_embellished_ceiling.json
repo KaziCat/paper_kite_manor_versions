@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/star_embellished_ceiling",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/star_embellished_ceiling",
-    "particle": "papercraft_magic_decoration:block/star_embellished_ceiling",
-    "0": "papercraft_magic_decoration:block/star_embellished_ceiling"
-  },
-  "render_type": "cutout"
-}
