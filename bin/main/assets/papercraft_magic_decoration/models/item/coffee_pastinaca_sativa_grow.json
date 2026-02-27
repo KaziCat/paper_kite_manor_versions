@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "papercraft_magic_decoration:item/ground_grown_coffee_fruit"
-  },
-  "render_type": "translucent"
-}

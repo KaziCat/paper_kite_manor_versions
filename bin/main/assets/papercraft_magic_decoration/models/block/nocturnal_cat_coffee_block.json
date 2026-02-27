@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/nocturnal_cat_coffee",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/nocturnal_cat_coffee",
-    "particle": "papercraft_magic_decoration:block/nocturnal_cat_coffee",
-    "0": "papercraft_magic_decoration:block/nocturnal_cat_coffee"
-  },
-  "render_type": "cutout"
-}

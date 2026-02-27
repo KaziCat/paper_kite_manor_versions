@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/dirt_hole",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/dirt_hole",
-    "particle": "papercraft_magic_decoration:block/dirt_hole",
-    "0": "papercraft_magic_decoration:block/dirt_hole"
-  },
-  "render_type": "solid"
-}

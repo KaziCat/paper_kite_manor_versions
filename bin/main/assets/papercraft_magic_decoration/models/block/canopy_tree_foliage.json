@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/canopy_tree_foliage",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/canopy_tree_foliage",
-    "particle": "papercraft_magic_decoration:block/canopy_tree_foliage",
-    "0": "papercraft_magic_decoration:block/canopy_tree_foliage"
-  },
-  "render_type": "cutout"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "papercraft_magic_decoration:custom/vodka",
-  "textures": {
-    "all": "papercraft_magic_decoration:block/vodka",
-    "particle": "papercraft_magic_decoration:block/vodka",
-    "0": "papercraft_magic_decoration:block/vodka"
-  },
-  "render_type": "solid"
-}
